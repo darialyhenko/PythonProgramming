@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: darlykh
+Version: 0.0.1
+Summary: LR4
+Home-page: https://github.com/darialyhenko/PythonProgramming
+Author: Daria Lykhenko
+Author-email: daria.lyhenko@gmail.com
+License: UNKNOWN
+Description: РџСЂР°РєС‚РёРєСѓРј РїРѕ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЋ
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
