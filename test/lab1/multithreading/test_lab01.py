@@ -3,7 +3,7 @@ import time
 
 from lab1.multithreading.lab01 import collect_proxy
 
-@unittest.skip
+#@unittest.skip
 class Testlab01(unittest.TestCase):
     def setUp(self) -> None:
         self.start_time = time.time()
